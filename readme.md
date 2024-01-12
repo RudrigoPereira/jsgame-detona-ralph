@@ -20,7 +20,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
-3. Use o clique do mouse e tente acertar em quadrado o Ralph vai aparecer.
+3. Use o clique do mouse e tente acertar em qual quadrado o Ralph vai aparecer.
 4. Cada acerto soma 1 ponto ao score e cada erro diminui uma vida do jogador.
 5. O jogo termina quando acabar o tempo ou as vidas do jogador.
 
